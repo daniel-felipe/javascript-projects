@@ -28,7 +28,7 @@ main {
 h1 {
     font-size: 4rem;
     display: block;
-    letter-spacing: 1px;
+    letter-spacing: 1.2px;
     text-transform: capitalize;
 }
 
