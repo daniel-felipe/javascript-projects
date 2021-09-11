@@ -50,7 +50,7 @@ const randomBtn = document.querySelector(".random-btn");
 // set starting item
 let currentItem = 2;
 
-// load initial
+// load
 window.addEventListener('DOMContentLoaded', function() {
     showPerson();
 });
