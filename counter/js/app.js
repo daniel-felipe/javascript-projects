@@ -1,9 +1,9 @@
-//  set initial count
-let count = 0;
-
 // select value and buttons
 const value = document.querySelector('#value');
 const btns = document.querySelectorAll('.btn');
+
+//  set initial count
+let count = 0;
 
 btns.forEach(function(btn) {
     btn.addEventListener('click', function(e) {
